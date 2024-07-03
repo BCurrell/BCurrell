@@ -1,10 +1,10 @@
 # Brandon Currell
 
-### Contact
+## Contact
 
 Please use the Github [issues](https://github.com/BCurrell/BCurrell/issues) on the profile repository as the primary contact method.
 
-### Software Developer
+## Software Developer
 
 **Proficient in** Python, Bash, Git
 
@@ -12,13 +12,15 @@ Please use the Github [issues](https://github.com/BCurrell/BCurrell/issues) on t
 
 **Outdated knowledge in** Java, C#
 
-### Systems Administrator
+## Systems Administrator
 
 Debian, Docker, Ansible
 
-### Network Engineer
+## Network Engineer
 
 Routing (namely BGP), SD-WAN, Network Redundancy
+
+## Stats
 
 ![BCurrell's GitHub stats](https://github-readme-stats.vercel.app/api?username=BCurrell&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BCurrell&theme=radical&&layout=compact)
